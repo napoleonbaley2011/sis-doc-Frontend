@@ -7,7 +7,7 @@
             <div class="input-box">
                 <input type="text" placeholder="Correo" required>
                 <i class='bx bxs-user'></i>
-                <font-awesome-icon icon="star"></font-awesome-icon>
+                
             </div>
             <div class="input-box">
                 <input type="password" placeholder="Password" required>
