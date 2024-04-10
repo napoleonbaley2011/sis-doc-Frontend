@@ -7,6 +7,7 @@
             <div class="input-box">
                 <input type="text" placeholder="Correo" required>
                 <i class='bx bxs-user'></i>
+                <font-awesome-icon icon="star"></font-awesome-icon>
             </div>
             <div class="input-box">
                 <input type="password" placeholder="Password" required>
@@ -16,10 +17,7 @@
                 <label><input type="checkbox"> Recordar Usuario </label>    
             </div>
             <button type ="submit" class="btn">INGRESAR</button>
-            <a href="inicio.html"></a>
-            <div class="register-link">
-                <a href="#">Olvidaste tu contraseña</a>
-             </div>
+            
            
         </form>
     </div>
@@ -121,15 +119,5 @@ input-box input:placeholder{
     margin-top: 20px;
     
 }
-.wrapper .register-link {
-    font-size: 14.5px;
-    text-align:right;
-    margin-top: 20px;
-    font-weight:500;
-    margin: 25px 0 10 px;
-}
-.register-link a{
-    color:#fff;  
-    text-decoration:none; 
-}
+
 </style>
