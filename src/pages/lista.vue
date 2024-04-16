@@ -2,10 +2,10 @@
     <body>
     <nav>
         <ul>
-            <li><a href="#">Inicio</a></li>
-            <li><a href="#">Documentos</a></li>
-            <li><a href="#">Seguimiento</a></li>
-            <li><a href="#">Configuraciones</a></li>
+            <li><a href="inicio.vue">Inicio</a><i class="bi bi-envelope"></i></li>
+            <li><a href="documentos.vue">Documentos</a></li>
+            <li><a href="seguimiento.vue">Seguimiento</a></li>
+            <li><a href="configuraciones.vue">Configuraciones</a></li>
         </ul>
     </nav>
     <body>
